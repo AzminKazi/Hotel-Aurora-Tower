@@ -1,9 +1,9 @@
-***🏨 Hotel Aurora Tower Dashboard***
+# 🏨 Hotel Aurora Tower Dashboard
 
 An advanced Power BI Hotel Analytics Dashboard designed to evaluate booking performance, revenue growth, guest demographics, and room category trends.
 This project highlights how raw hospitality data can be converted into clear, interactive visual insights that assist in strategic business decisions.
 
-***📌 Project Overview***
+# 📌 Project Overview
 
 The Hotel Aurora Tower Dashboard provides insights into:
 
@@ -16,7 +16,7 @@ The Hotel Aurora Tower Dashboard provides insights into:
 
 Instead of analyzing spreadsheets manually, this dashboard offers a dynamic and user-friendly decision-support system.
 
-***🎯 Objective***
+# 🎯 Objective
 
 The primary aim of this project is to:
 
@@ -38,7 +38,7 @@ Implement a real-world hospitality analytics workflow
 📁 Microsoft Excel – Raw dataset source
 🗂 Data Modeling – Relationship building and filtering logic
 
-📂 Data Source
+# 📂 Data Source
 
 The dataset is an Excel-based hotel booking dataset including:
 
@@ -56,8 +56,8 @@ Payment status and customer ratings
 
 The dataset represents a realistic hotel business environment for analysis purposes.
 
-📊 Dashboard Features & Insights
-🔢 Key Performance Indicators (KPIs)
+# 📊 Dashboard Features & Insights
+***🔢 Key Performance Indicators (KPIs)***
 
 Total Revenue: 231M
 
@@ -71,7 +71,7 @@ Total Ratings: 9.94K
 
 These KPIs provide a quick and comprehensive performance summary.
 
-🏨 Booking Channel Analysis
+# 🏨 Booking Channel Analysis
 
 Displays booking share across:
 
@@ -87,7 +87,7 @@ MakeMyTrip
 
 ➡ Identifies dominant booking platforms.
 
-🛏 Room Category Analysis
+# 🛏 Room Category Analysis
 
 Compares performance of:
 
@@ -101,25 +101,25 @@ Super Deluxe
 
 ➡ Supports pricing strategy and inventory planning.
 
-🌍 Guest Location Analysis
+# 🌍 Guest Location Analysis
 
 Interactive map showing country-wise booking distribution.
 
 ➡ Highlights domestic and international travel contribution.
 
-📅 Revenue Trend Analysis
+# 📅 Revenue Trend Analysis
 
 Monthly revenue visualization to detect seasonality patterns.
 
 ➡ Helps in forecasting demand cycles.
 
-📆 Booking Volume Trend
+# 📆 Booking Volume Trend
 
 Tracks month-wise booking count.
 
 ➡ Supports occupancy planning and business forecasting.
 
-💳 Payment Status Overview
+# 💳 Payment Status Overview
 
 Breakdown of:
 
@@ -131,7 +131,7 @@ Cancelled
 
 ➡ Assists in monitoring cash flow and cancellation trends.
 
-💡 Key Business Insights
+# 💡 Key Business Insights
 
 ✔ Online booking platforms contribute significantly to total bookings.
 ✔ Premium room categories generate higher revenue share.
@@ -139,6 +139,6 @@ Cancelled
 ✔ Revenue shows seasonal fluctuations during peak months.
 ✔ Payment completion rate remains strong overall.
 
-📷 Dashboard Preview
+# 📷 Dashboard Preview
 
 (Insert your dashboard screenshot here)
