@@ -8,10 +8,15 @@ This project highlights how raw hospitality data can be converted into clear, in
 The Hotel Aurora Tower Dashboard provides insights into:
 
 ✔ Booking patterns across multiple booking channels
+
 ✔ Revenue performance and pricing trends
+
 ✔ Country-wise guest distribution
+
 ✔ Room category demand analysis
+
 ✔ Month-wise booking and revenue performance
+
 ✔ Payment tracking and rating insights
 
 Instead of analyzing spreadsheets manually, this dashboard offers a dynamic and user-friendly decision-support system.
@@ -20,54 +25,58 @@ Instead of analyzing spreadsheets manually, this dashboard offers a dynamic and 
 
 The primary aim of this project is to:
 
-Transform raw hotel booking data into actionable insights
+1. Transform raw hotel booking data into actionable insights
 
-Detect high-performing booking platforms and room categories
+2. Detect high-performing booking platforms and room categories
 
-Monitor monthly revenue and occupancy trends
+3. Monitor monthly revenue and occupancy trends
 
-Examine customer distribution and travel behavior
+4. Examine customer distribution and travel behavior
 
-Implement a real-world hospitality analytics workflow
+5. Implement a real-world hospitality analytics workflow
 
 # 🛠️ Tech Stack Used
 
 📊 Power BI Desktop – Data visualization and report building
+
 📂 Power Query – Data preprocessing and transformation
+
 🧠 DAX – Calculated measures and KPIs
+
 📁 Microsoft Excel – Raw dataset source
+
 🗂 Data Modeling – Relationship building and filtering logic
 
 # 📂 Data Source
 
 The dataset is an Excel-based hotel booking dataset including:
 
-Transaction-level booking records
+1. Transaction-level booking records
 
-Booking channels (Walk-in, Expedia, Agoda, Website, etc.)
+2. Booking channels (Walk-in, Expedia, Agoda, Website, etc.)
 
-Room categories (Standard, Deluxe, Suite, Super Deluxe)
+3. Room categories (Standard, Deluxe, Suite, Super Deluxe)
 
-Guest country information
+4. Guest country information
 
-Monthly revenue and booking data
+5. Monthly revenue and booking data
 
-Payment status and customer ratings
+6. Payment status and customer ratings
 
 The dataset represents a realistic hotel business environment for analysis purposes.
 
 # 📊 Dashboard Features & Insights
 ***🔢 Key Performance Indicators (KPIs)***
 
-Total Revenue: 231M
+1.Total Revenue: 231M
 
-Total Booking Amount: 175M
+2.Total Booking Amount: 175M
 
-Room Rate: 50M
+3. Room Rate: 50M
 
-Total Adults: 20K
+4.Total Adults: 20K
 
-Total Ratings: 9.94K
+5.Total Ratings: 9.94K
 
 These KPIs provide a quick and comprehensive performance summary.
 
@@ -75,15 +84,15 @@ These KPIs provide a quick and comprehensive performance summary.
 
 Displays booking share across:
 
-Walk-in
+1. Walk-in
 
-Expedia
+2. Expedia
 
-Agoda
+3. Agoda
 
-Website
+4. Website
 
-MakeMyTrip
+5. MakeMyTrip
 
 ➡ Identifies dominant booking platforms.
 
@@ -91,13 +100,13 @@ MakeMyTrip
 
 Compares performance of:
 
-Standard
+1. Standard
 
-Deluxe
+2. Deluxe
 
-Suite
+3. Suite
 
-Super Deluxe
+4. Super Deluxe
 
 ➡ Supports pricing strategy and inventory planning.
 
@@ -123,20 +132,24 @@ Tracks month-wise booking count.
 
 Breakdown of:
 
-Paid
+1. Paid
 
-Pending
+2. Pending
 
-Cancelled
+3. Cancelled
 
 ➡ Assists in monitoring cash flow and cancellation trends.
 
 # 💡 Key Business Insights
 
 ✔ Online booking platforms contribute significantly to total bookings.
+
 ✔ Premium room categories generate higher revenue share.
+
 ✔ International travelers play a crucial role in revenue contribution.
+
 ✔ Revenue shows seasonal fluctuations during peak months.
+
 ✔ Payment completion rate remains strong overall.
 
 # 📷 Dashboard Preview
