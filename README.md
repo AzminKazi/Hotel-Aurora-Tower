@@ -154,4 +154,4 @@ Breakdown of:
 
 # 📷 Dashboard Preview
 
-(Dashboard.png)
+![Dashboard preview](Dashboard.png)
